@@ -1,0 +1,6 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+fonts/Eternate.otf
+fonts/Eternate_Bold.otf
+fonts/Eternate_Two_Bold.otf
+fonts/PlayfairDisplay-VariableFont_wght.ttf
