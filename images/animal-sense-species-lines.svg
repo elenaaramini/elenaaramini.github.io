@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Animal Sense multi-species line illustration</title>
+  <desc id="desc">Line drawings of horse, dog and cat details with relational movement lines.</desc>
+  <rect width="900" height="520" fill="#F4EEE4"/>
+  <g fill="none" stroke="#263C35" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 255c18-83 76-135 174-154 61-12 111 4 152 48" stroke-width="7"/>
+    <path d="M155 320c53 36 109 46 168 31 37-9 70-30 98-62" stroke-width="6"/>
+    <path d="M291 106c-9-36 0-67 29-93 19 39 17 75-8 108" stroke-width="6"/>
+    <path d="M202 126c-30-21-45-50-43-87 38 18 59 45 64 82" stroke-width="6"/>
+    <ellipse cx="276" cy="212" rx="31" ry="24" stroke-width="5"/>
+    <circle cx="276" cy="212" r="8" fill="#263C35" stroke="none"/>
+    <path d="M506 293c32-48 76-74 132-78 44-3 82 8 113 34" stroke-width="6"/>
+    <path d="M548 215c-5-30 8-57 39-80 8 36-1 64-27 85" stroke-width="5"/>
+    <path d="M713 223c22-22 49-31 82-27-12 33-36 51-72 53" stroke-width="5"/>
+    <path d="M525 341c52 24 106 28 163 12" stroke-width="6"/>
+    <path d="M582 391c42 34 88 45 139 31 34-9 58-31 73-66" stroke-width="5"/>
+    <path d="M642 393c-10-31-3-60 22-87 19 31 18 60-3 87" stroke-width="5"/>
+  </g>
+  <g fill="none" stroke="#B8734B" stroke-linecap="round" stroke-width="4" stroke-dasharray="9 13">
+    <path d="M92 412c153-104 299-135 438-92 79 25 148 19 208-19"/>
+    <path d="M148 71c112 73 211 97 296 72 72-21 135-15 189 17"/>
+  </g>
+  <g fill="#B8734B">
+    <circle cx="112" cy="407" r="9"/>
+    <circle cx="531" cy="320" r="9"/>
+    <circle cx="740" cy="301" r="9"/>
+  </g>
+</svg>
